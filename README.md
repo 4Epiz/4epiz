@@ -82,23 +82,6 @@ interests:  ["Cloud Infrastructure", "Open Source", "DevOps", "UI/UX Design", "G
 
 ---
 
-## 🖥️ Homelab Stats
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  Host                  │ Specs                   │ Uptime   │
-├─────────────────────────────────────────────────────────────┤
-│  AMD Ryzen 7 Host      │ 96GB RAM · 16vCPU · 2TB │ 97.60%   │
-│  Ampere Oracle (ARM)   │ 24GB RAM ·  4vCPU · 200G│ 99.89%   │
-│  RTX 5090 GPU Server   │ 32GB RAM · 16vCPU · 1TB │ 99.95%   │
-│  General Purpose (US)  │ 24GB RAM ·  8vCPU · 500G│ 99.95%   │
-├─────────────────────────────────────────────────────────────┤
-│  ~87 VMs  •  8 Containers  •  ~1.5TB used  •  99.15% avg   │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
 ## 💭 Working Philosophy
 
 > **Systems over shortcuts** — I'd rather spend a week building the right abstraction than months maintaining the wrong one. Good infrastructure compounds.
