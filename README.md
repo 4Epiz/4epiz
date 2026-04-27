@@ -18,12 +18,11 @@ alias:      "4epiz"
 location:   "India"
 title:      "Full-Stack Developer • Cloud & DevOps • Performance Optimization"
 role:       "CTO @ ServerVerse — serververs.com"
-building:   ["AtomSpace.sbs", "ServerVerse", "Zynox V2", "commercial dev tooling"]
+building:   ["AtomSpace.sbs", "ServerVerse", "commercial dev tooling"]
 approach:   "I build things and break them on purpose"
 philosophy: "Own your stack. Systems over shortcuts. Sell what you build."
 fun_fact:   "I debug at 2am and call it a hobby"
-homelab:    "VMs across AMD Ryzen 7, Oracle Ampere ARM, RTX 5090 GPU server"
-experience: "3+ years"
+experience: "4+ years"
 interests:  ["Cloud Infrastructure", "Open Source", "DevOps", "UI/UX Design", "Gaming", "Homelab"]
 ```
 
@@ -70,15 +69,15 @@ interests:  ["Cloud Infrastructure", "Open Source", "DevOps", "UI/UX Design", "G
 ---
 
 ## 🚀 Featured Projects
-
 | Project | Description | Tech | Link |
 |---|---|---|---|
 | **Zynox V2** | Sleek hosting template — modern design language, smooth animations, sold on BuiltByBit | Next.js · Tailwind · TypeScript | [Live](https://zynoxv2.4epiz.com/) |
 | **Zynox** | Clean, minimal hosting template for game server companies | Next.js · Tailwind | [Live](https://zynox.4epiz.com/) |
 | **ServerVerse** | Full landing page — animated sections, responsive, optimised performance | Next.js · Tailwind · Framer Motion | [Live](https://serververse-landing.vercel.app/) |
+| **ServerVerse Network Transit** | Lightweight network transit utility for ServerVerse infrastructure | — | [GitHub](https://github.com/serververs/network-transit) · [Website](http://serververs.com/nt) |
 | **Nurex** | Free open-source Minecraft server website template | Next.js · Tailwind · TypeScript | [BBB](https://builtbybit.com/resources/nurex-minecraft-website-template.58703/) |
 | **MC Multi-Instance Manager** | Commercial Pterodactyl egg — multiple MC instances, HWID licensing, custom Docker image | Docker · Bash · Node.js | [divyansh.sbs](https://divyansh.sbs) |
-| **AtomSpace.sbs** | 🚧 In progress | — | Soon™ |
+| **[AtomSpace.sbs](http://AtomSpace.sbs)** | 🚧 In progress | — | Soon™ |
 
 ---
 
